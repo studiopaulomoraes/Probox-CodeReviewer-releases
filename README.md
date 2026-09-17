@@ -36,35 +36,47 @@ Paste a Pull Request URL and start the review. Multiple tabs let you work on Bit
 
 ![PR input screen with URL field and multi-tab bar](docs/screenshots/01-pr-input.png)
 
-### AI review
+### Overview
 
-Choose the model (Gemini, OpenAI, Anthropic, or Grok), effort, technology stack, attached context, review language, and optional instructions before running the analysis.
+Read the PR description and scroll a chronological feed of remote discussion threads before diving into the code.
 
-![AI Review dialog over a side-by-side diff](docs/screenshots/02-ai-review.png)
+![Overview tab with PR description and remote thread feed](docs/screenshots/02-overview.png)
 
-### Review workspace
+### Commits
 
-Loaded PR with file list, side-by-side diff, and the AI review panel. Tabs show simultaneous reviews across different VCS providers.
+Browse PR commits, select a range, and filter the diff to only the changes you want to review.
 
-![Review workspace with Bitbucket PR and code diff](docs/screenshots/03-review-workspace.png)
+![Commits tab with multi-select commit list and View changes action](docs/screenshots/03-commits.png)
+
+### Diff files
+
+Review changed files with side-by-side or unified diff, filters, and the AI review panel alongside the code.
+
+![Diff Files tab with file list, side-by-side diff, and AI panel](docs/screenshots/04-diff-files.png)
 
 ### Comments & collaboration
 
 AI findings appear inline in the diff and as draft comments. Review, edit, and post them directly to the remote PR.
 
-![Draft comments panel with inline AI finding and Post button](docs/screenshots/04-comments.png)
+![Draft comments panel with inline AI finding and Post button](docs/screenshots/05-comments.png)
+
+### AI review
+
+Choose the model (Gemini, OpenAI, Anthropic, or Grok), effort, technology stack, attached context, review language, and optional instructions before running the analysis.
+
+![AI Review dialog over a side-by-side diff](docs/screenshots/06-ai-review.png)
 
 ### Settings
 
 Theme, UI language, AI review language, sounds, PR update polling, security PIN, API keys, and VCS token management.
 
-![Settings screen with appearance, language, and PAT options](docs/screenshots/05-settings.png)
+![Settings screen with appearance, language, and PAT options](docs/screenshots/07-settings.png)
 
 ### About
 
 App version, credits, and links to Probox Studio.
 
-![About screen with version and product information](docs/screenshots/06-about.png)
+![About screen with version and product information](docs/screenshots/08-about.png)
 
 ---
 

@@ -7,11 +7,13 @@ PNG files in this folder are embedded in the root `README.md` and published on G
 | File | Screen | Content shown |
 |------|--------|---------------|
 | `01-pr-input.png` | PR input | Marketing demo tabs for GitHub, GitLab, Bitbucket, and Azure DevOps with the PR URL field and Start button |
-| `02-ai-review.png` | AI review | AI Review dialog (model, effort, technology, context, language) over a loaded diff |
-| `03-review-workspace.png` | Review workspace | Loaded Bitbucket demo PR with file list, side-by-side diff, and AI panel |
-| `04-comments.png` | Comments | Inline AI findings in the diff and draft comments ready to post |
-| `05-settings.png` | Settings | Appearance, language, sound, PR updates, security PIN, and Manage PATs |
-| `06-about.png` | About | Version, credits, and Probox Studio links |
+| `02-overview.png` | Overview | GitLab demo PR with description markdown and chronological remote thread feed |
+| `03-commits.png` | Commits | Bitbucket demo PR with commit list (message, author, SHA, date) and multi-select toolbar |
+| `04-diff-files.png` | Diff files | Bitbucket demo PR with file list, side-by-side diff, and AI review panel |
+| `05-comments.png` | Comments | GitHub demo PR with inline AI findings in the diff and draft comments ready to post |
+| `06-ai-review.png` | AI review | AI Review dialog (model, effort, technology, context, language) over a loaded diff |
+| `07-settings.png` | Settings | Appearance, language, sound, PR updates, security PIN, and Manage PATs |
+| `08-about.png` | About | Version, credits, and Probox Studio links |
 
 ## Capture workflow
 
